@@ -1,0 +1,2107 @@
+CO1
+
+1. What is remote sensing?
+A. Collecting information about objects without direct physical contact
+B. Measuring objects using a physical ruler
+C. Collecting soil samples manually
+D. Surveying land using only measuring tapes
+ANSWER: A
+
+2. Which technology is commonly used in remote sensing?
+A. Printing technology
+B. Satellite and airborne sensors
+C. Audio recording systems
+D. Mechanical calculators
+ANSWER: B
+
+3. What is the first major component of the remote sensing process?
+A. Image classification
+B. Data interpretation
+C. Energy source or illumination
+D. Map printing
+ANSWER: C
+
+4. Which of the following is the correct general sequence of remote sensing?
+A. Classification, energy source, detection and interpretation
+B. Image display, printing, energy source and storage
+C. Interpretation, mapping, energy source and printing
+D. Energy source, atmospheric interaction, target interaction, detection and processing
+ANSWER: D
+
+5. What is the main function of a remote sensing sensor?
+A. Detecting and recording electromagnetic energy
+B. Constructing roads
+C. Measuring population directly
+D. Producing electricity
+ANSWER: A
+
+6. Which of the following is an example of remote sensing?
+A. Measuring soil using a laboratory balance
+B. Observing forest cover using satellite imagery
+C. Measuring land using a chain
+D. Collecting water samples manually
+ANSWER: B
+
+7. What is passive remote sensing?
+A. Remote sensing using artificial energy transmitted by a sensor
+B. Remote sensing without electromagnetic radiation
+C. Remote sensing using naturally available energy
+D. Remote sensing using only sound waves
+ANSWER: C
+
+8. Which of the following is an example of passive remote sensing?
+A. RADAR
+B. LiDAR
+C. SONAR
+D. Optical satellite imaging using reflected sunlight
+ANSWER: D
+
+9. What is active remote sensing?
+A. A system in which the sensor transmits its own energy towards a target
+B. A system that uses only natural sunlight
+C. A system that does not require a sensor
+D. A system that collects only visible light
+ANSWER: A
+
+10. Which of the following is an example of active remote sensing?
+A. Conventional aerial photography using sunlight
+B. RADAR
+C. Natural colour photography
+D. Passive thermal imaging
+ANSWER: B
+
+11. Which remote sensing system can generally operate during both day and night?
+A. Passive visible imaging
+B. Conventional colour photography
+C. Active RADAR
+D. Sunlight-based photography
+ANSWER: C
+
+12. Which type of remote sensing is commonly affected by cloud cover in optical satellite imagery?
+A. Active microwave sensing
+B. RADAR imaging
+C. LiDAR ranging
+D. Passive optical remote sensing
+ANSWER: D
+
+13. What is the full form of RADAR?
+A. Radio Detection and Ranging
+B. Remote Data Recording
+C. Radiation Detection and Recording
+D. Radio Digital Analysis and Research
+ANSWER: A
+
+14. What is the full form of LiDAR?
+A. Light Digital Analysis and Recording
+B. Light Detection and Ranging
+C. Linear Data Recording
+D. Land Information Detection and Research
+ANSWER: B
+
+15. What is the electromagnetic spectrum?
+A. A collection of geographical maps
+B. A range of sound frequencies
+C. The complete range of electromagnetic radiation according to wavelength or frequency
+D. A collection of satellite images
+ANSWER: C
+
+16. Which electromagnetic radiation has the shortest wavelength?
+A. Radio waves
+B. Microwaves
+C. Infrared radiation
+D. Gamma rays
+ANSWER: D
+
+17. Which part of the electromagnetic spectrum is visible to the human eye?
+A. Visible light
+B. Microwave radiation
+C. Gamma radiation
+D. X-rays
+ANSWER: A
+
+18. Which electromagnetic region is commonly used for thermal remote sensing?
+A. Ultraviolet
+B. Thermal infrared
+C. Gamma rays
+D. Radio waves
+ANSWER: B
+
+19. Which electromagnetic region is commonly used in RADAR remote sensing?
+A. Visible
+B. Ultraviolet
+C. Microwave
+D. X-ray
+ANSWER: C
+
+20. Which wavelength region is strongly absorbed by healthy green vegetation and useful for vegetation analysis?
+A. Blue
+B. Green
+C. Red
+D. Near-infrared
+ANSWER: C
+
+21. Which wavelength region is strongly reflected by healthy vegetation?
+A. Near-infrared
+B. X-rays
+C. Gamma rays
+D. Ultraviolet
+ANSWER: A
+
+22. What is the approximate wavelength range of visible light?
+A. 1–10 micrometres
+B. 0.4–0.7 micrometres
+C. 10–100 micrometres
+D. 100–1000 micrometres
+ANSWER: B
+
+23. What does spatial resolution describe in remote sensing?
+A. Number of spectral bands
+B. Frequency of satellite revisit
+C. Ground area represented by one pixel
+D. Number of brightness levels
+ANSWER: C
+
+24. Which resolution refers to the ability of a sensor to distinguish different wavelength regions?
+A. Spatial resolution
+B. Temporal resolution
+C. Radiometric resolution
+D. Spectral resolution
+ANSWER: D
+
+25. What does radiometric resolution indicate?
+A. The ability of a sensor to distinguish different levels of energy intensity
+B. The geographical area covered by a satellite
+C. The frequency of image acquisition
+D. The number of geographical features
+ANSWER: A
+
+26. What is temporal resolution?
+A. The size of a pixel
+B. The frequency with which a satellite revisits the same area
+C. The number of spectral bands
+D. The brightness of an image
+ANSWER: B
+
+27. Which satellite resolution determines the smallest feature that can be distinguished spatially?
+A. Temporal resolution
+B. Radiometric resolution
+C. Spatial resolution
+D. Spectral resolution
+ANSWER: C
+
+28. Which satellite has been widely used for land use and land cover mapping?
+A. INSAT
+B. GPS
+C. GOES
+D. Landsat
+ANSWER: D
+
+29. Which Indian satellite series is widely used for natural resource monitoring and remote sensing?
+A. IRS
+B. INSAT
+C. GSAT
+D. NAVIC
+ANSWER: A
+
+30. Which satellite system is primarily designed for weather observation?
+A. GPS
+B. INSAT
+C. Landsat
+D. Cartosat
+ANSWER: B
+
+31. Which satellite mission is associated with high-resolution cartographic applications in India?
+A. INSAT
+B. NOAA
+C. Cartosat
+D. GOES
+ANSWER: C
+
+32. Which sensor is commonly used to collect microwave backscatter data?
+A. Panchromatic camera
+B. Thermal scanner
+C. Multispectral optical scanner
+D. Synthetic Aperture Radar
+ANSWER: D
+
+33. What is a multispectral sensor?
+A. A sensor that records data in multiple wavelength bands
+B. A sensor that records only sound waves
+C. A sensor that measures only elevation
+D. A sensor that records only one visible colour
+ANSWER: A
+
+34. What is a panchromatic image?
+A. An image containing only thermal information
+B. A single broad spectral band image, commonly displayed in grayscale
+C. An image containing only infrared information
+D. An image containing only elevation values
+ANSWER: B
+
+35. What is the primary purpose of a map?
+A. Recording audio information
+B. Measuring computer speed
+C. Representing geographical information on a flat surface
+D. Measuring atmospheric pressure
+ANSWER: C
+
+36. Why is a map considered a model of the real world?
+A. It contains every real-world detail
+B. It represents objects at their actual size
+C. It has no geographical limitations
+D. It simplifies and represents selected real-world features
+ANSWER: D
+
+37. Which of the following is an essential element of a map?
+A. Scale
+B. Computer processor
+C. Keyboard
+D. Internet browser
+ANSWER: A
+
+38. What is the main purpose of a map legend?
+A. Showing the map production date only
+B. Explaining the symbols and colours used on a map
+C. Calculating map scale automatically
+D. Measuring geographical coordinates
+ANSWER: B
+
+39. What does a north arrow indicate on a map?
+A. Map scale
+B. Elevation
+C. Direction of north
+D. Population density
+ANSWER: C
+
+40. What is a map projection?
+A. A method of storing attribute data
+B. A method of measuring rainfall
+C. A technique for classifying satellite images
+D. A mathematical transformation of Earth's curved surface onto a flat plane
+ANSWER: D
+
+41. Which of the following is a basic spatial element in cartography?
+A. Point
+B. Keyboard
+C. Printer
+D. Processor
+ANSWER: A
+
+42. Which spatial element is most suitable for representing a road on a map?
+A. Point
+B. Line
+C. Polygon
+D. Raster cell
+ANSWER: B
+
+43. Which spatial element is suitable for representing a lake boundary and its area?
+A. Point
+B. Line
+C. Polygon
+D. Coordinate
+ANSWER: C
+
+44. What is a geographical coordinate?
+A. A map colour
+B. A satellite name
+C. A type of map symbol
+D. A numerical value representing a location on Earth's surface
+ANSWER: D
+
+45. Which two coordinates are commonly used to identify locations on Earth?
+A. Latitude and longitude
+B. Height and weight
+C. Distance and speed
+D. Length and temperature
+ANSWER: A
+
+46. What does latitude measure?
+A. Distance east or west of the Prime Meridian
+B. Angular distance north or south of the Equator
+C. Height above sea level
+D. Distance between two cities
+ANSWER: B
+
+47. What does longitude measure?
+A. Distance north of the Equator
+B. Height above sea level
+C. Angular distance east or west of the Prime Meridian
+D. Slope of the land
+ANSWER: C
+
+48. What is map scale?
+A. The colour arrangement of a map
+B. The geographical direction of a map
+C. The elevation of a map
+D. The relationship between map distance and corresponding ground distance
+ANSWER: D
+
+49. Which of the following represents a large-scale map?
+A. 1:10,000
+B. 1:1,000,000
+C. 1:5,000,000
+D. 1:10,000,000
+ANSWER: A
+
+50. Which map scale represents the smallest geographical area with the greatest relative detail among the following?
+A. 1:1,000,000
+B. 1:5,000
+C. 1:500,000
+D. 1:2,000,000
+ANSWER: B
+
+51. What is a representative fraction (RF)?
+A. A map colour code
+B. A geographical coordinate
+C. A numerical expression of the relationship between map distance and ground distance
+D. A satellite frequency
+ANSWER: C
+
+52. If the map scale is 1:50,000, what ground distance is represented by 1 cm on the map?
+A. 50 metres
+B. 5 kilometres
+C. 500 kilometres
+D. 500 metres
+ANSWER: D
+
+53. What happens when a large-scale map is used?
+A. More geographical detail is generally displayed
+B. A larger geographical area is always displayed
+C. Less detail is always displayed
+D. Ground features disappear
+ANSWER: A
+
+54. Which type of map scale uses a graphical line divided into ground-distance units?
+A. Representative fraction
+B. Bar scale
+C. Verbal scale
+D. Coordinate scale
+ANSWER: B
+
+55. What is a spatial referencing system?
+A. A method of image enhancement
+B. A method of printing maps
+C. A system used to identify geographical locations using coordinates and reference information
+D. A system for measuring computer speed
+ANSWER: C
+
+56. What is a Geographic Coordinate System (GCS)?
+A. A system based only on pixels
+B. A system based on road networks
+C. A system that uses only local distances
+D. A coordinate system using latitude and longitude on a reference ellipsoid
+ANSWER: D
+
+57. What is a Projected Coordinate System?
+A. A coordinate system that represents locations on a flat, two-dimensional surface
+B. A system that stores only satellite images
+C. A system that uses only latitude
+D. A system that does not use coordinates
+ANSWER: A
+
+58. What is the full form of UTM?
+A. Universal Terrain Mapping
+B. Universal Transverse Mercator
+C. United Topographic Model
+D. Universal Tracking Method
+ANSWER: B
+
+59. Which projection is used by the Universal Transverse Mercator coordinate system?
+A. Mercator cylindrical projection
+B. Conic projection
+C. Transverse Mercator projection
+D. Azimuthal projection
+ANSWER: C
+
+60. What is a datum in a spatial referencing system?
+A. A type of map symbol
+B. A satellite sensor
+C. A method of image classification
+D. A reference framework used to define positions on Earth
+ANSWER: D
+
+61. Which of the following is an example of a geodetic datum?
+A. WGS 84
+B. NDVI
+C. RADAR
+D. LiDAR
+ANSWER: A
+
+62. What is the primary role of computers in map production?
+A. Measuring rainfall manually
+B. Storing, processing, analysing and displaying geographical information
+C. Constructing physical roads
+D. Collecting soil samples
+ANSWER: B
+
+63. Which computer hardware component is primarily used to display digital maps?
+A. Keyboard
+B. Scanner
+C. Monitor
+D. Mouse
+ANSWER: C
+
+64. Which device is used to produce large-format printed maps?
+A. Keyboard
+B. GPS receiver
+C. Joystick
+D. Plotter
+ANSWER: D
+
+65. What is the function of a scanner in digital map production?
+A. Converting paper maps into digital images
+B. Measuring satellite altitude
+C. Calculating geographical coordinates automatically
+D. Printing maps
+ANSWER: A
+
+66. Which software is commonly used for Geographic Information System applications?
+A. Microsoft Word
+B. QGIS
+C. Notepad
+D. Calculator
+ANSWER: B
+
+67. Which of the following is an open-source GIS software?
+A. Adobe Photoshop
+B. Microsoft Excel
+C. QGIS
+D. Microsoft PowerPoint
+ANSWER: C
+
+68. Which software is widely used for professional GIS mapping and spatial analysis?
+A. VLC Media Player
+B. Notepad
+C. Microsoft Paint
+D. ArcGIS
+ANSWER: D
+
+69. Which software is commonly used for digital image processing and remote sensing analysis?
+A. ERDAS IMAGINE
+B. Microsoft Word
+C. VLC Player
+D. PowerPoint
+ANSWER: A
+
+70. Which software is commonly used for editing and processing satellite imagery and raster data?
+A. Microsoft Outlook
+B. ENVI
+C. Notepad
+D. Calculator
+ANSWER: B
+
+71. What is the primary function of CAD software in map production?
+A. Recording audio
+B. Managing emails
+C. Creating and editing precise technical drawings and designs
+D. Measuring rainfall
+ANSWER: C
+
+72. Which of the following is an example of computer-aided design software?
+A. QGIS
+B. ENVI
+C. ERDAS IMAGINE
+D. AutoCAD
+ANSWER: D
+
+73. What is the purpose of GIS database management in map production?
+A. Organizing and maintaining spatial and attribute information
+B. Increasing computer screen brightness
+C. Recording audio information
+D. Changing satellite orbits
+ANSWER: A
+
+74. Which software is commonly used to prepare layouts and graphical designs for map presentation?
+A. GPS receiver
+B. Adobe Illustrator
+C. Rain gauge
+D. Total station
+ANSWER: B
+
+75. Which of the following is an important advantage of using GIS software in map production?
+A. It eliminates the need for geographical data
+B. It prevents all possible mapping errors
+C. It enables efficient spatial analysis, editing and map visualization
+D. It replaces all field surveys
+ANSWER: C
+
+
+CO2
+1. What is digital image processing?
+A. The process of manually drawing maps
+B. The manipulation and analysis of digital images using computers
+C. The process of measuring rainfall
+D. The preparation of paper documents
+ANSWER: B
+
+2. What is the basic unit of a digital image?
+A. Polygon
+B. Vector
+C. Pixel
+D. Contour
+ANSWER: C
+
+3. What does a pixel represent in a digital image?
+A. The smallest individual picture element
+B. A complete satellite
+C. A geographical boundary
+D. A drainage network
+ANSWER: A
+
+4. What is radiometric resolution?
+A. The ability to identify small geographical features
+B. The size of a satellite image
+C. The distance between two pixels
+D. The ability of a sensor to distinguish different levels of energy intensity
+ANSWER: D
+
+5. What does spatial resolution indicate in remote sensing?
+A. Number of spectral bands
+B. The smallest ground area represented by a pixel
+C. Number of satellites
+D. Image acquisition date
+ANSWER: B
+
+6. Which resolution refers to the number of spectral bands recorded by a sensor?
+A. Spatial resolution
+B. Temporal resolution
+C. Spectral resolution
+D. Radiometric resolution
+ANSWER: C
+
+7. What is temporal resolution?
+A. The frequency at which a satellite revisits the same geographical area
+B. The size of each image pixel
+C. The number of image colours
+D. The ability to identify different landforms
+ANSWER: A
+
+8. Which operation is commonly used to improve the visual appearance of satellite images?
+A. Database joining
+B. Network analysis
+C. Polygon buffering
+D. Contrast enhancement
+ANSWER: D
+
+9. What is image enhancement?
+A. Deleting all image information
+B. Improving image appearance to make features easier to identify
+C. Converting images into text documents
+D. Measuring groundwater depth
+ANSWER: B
+
+10. Which technique is used to reduce unwanted noise in digital images?
+A. Image classification
+B. Vectorization
+C. Image filtering
+D. Geocoding
+ANSWER: C
+
+11. What is the main purpose of image classification?
+A. Grouping image pixels into meaningful land cover classes
+B. Increasing satellite altitude
+C. Measuring road traffic
+D. Printing geographical maps
+ANSWER: A
+
+12. Which of the following is an example of a remote sensing data product?
+A. Audio recording
+B. Financial statement
+C. Word document
+D. Satellite image
+ANSWER: D
+
+13. What is a raw satellite data product?
+A. A fully interpreted land use map
+B. Original sensor data before extensive processing
+C. A printed road map
+D. A population census report
+ANSWER: B
+
+14. What is a False Colour Composite (FCC)?
+A. An image containing only black and white pixels
+B. A map without geographical coordinates
+C. An image created by assigning spectral bands to display colours different from natural colours
+D. A photograph taken using a mobile phone
+ANSWER: C
+
+15. Which colour is commonly used to represent healthy vegetation in a standard near-infrared false colour composite?
+A. Red
+B. Blue
+C. Black
+D. Yellow
+ANSWER: A
+
+16. What is a natural colour composite?
+A. An image displayed using only infrared bands
+B. An image without spectral information
+C. An image created using elevation values only
+D. An image displayed using bands corresponding approximately to visible red, green and blue
+ANSWER: D
+
+17. What is a thematic map product?
+A. A photograph without interpretation
+B. A map showing the spatial distribution of a specific theme
+C. A satellite orbit diagram
+D. A raw sensor recording
+ANSWER: B
+
+18. Which data product is generated by applying mathematical operations to multiple spectral bands?
+A. Paper map
+B. GPS navigation file
+C. Spectral index image
+D. Audio file
+ANSWER: C
+
+19. What is the primary objective of visual image interpretation?
+A. Identifying and understanding features visible in images
+B. Measuring computer processing speed
+C. Developing communication networks
+D. Recording audio signals
+ANSWER: A
+
+20. What is image interpretation strategy?
+A. A method of deleting image pixels
+B. A technique for changing satellite orbits
+C. A process of printing images
+D. A systematic approach to identifying and analysing image features
+ANSWER: D
+
+21. Which approach is useful for interpreting satellite images?
+A. Random guessing
+B. Systematic examination of image characteristics
+C. Ignoring image patterns
+D. Removing geographical information
+ANSWER: B
+
+22. What is the purpose of an interpretation key?
+A. To calculate satellite speed
+B. To change image resolution
+C. To assist in identifying features using their characteristic properties
+D. To measure atmospheric pressure
+ANSWER: C
+
+23. Which of the following is generally considered a level of image interpretation key?
+A. Selective and elimination
+B. Digital and mechanical
+C. Horizontal and vertical
+D. Direct and indirect
+ANSWER: D
+
+24. What is an image interpretation key?
+A. A guide that helps identify objects based on image characteristics
+B. A device used to launch satellites
+C. A method of storing computer passwords
+D. A system for measuring rainfall
+ANSWER: A
+
+25. Which information is useful when developing an image interpretation key?
+A. Computer brand
+B. Shape, size, tone, texture and pattern
+C. Internet speed
+D. File name only
+ANSWER: B
+
+26. What is topography?
+A. The study of computer networks
+B. The measurement of atmospheric pressure
+C. The arrangement and physical features of land surfaces
+D. The classification of financial records
+ANSWER: C
+
+27. Which of the following is a major topographic feature?
+A. Mountain
+B. Keyboard
+C. Satellite antenna
+D. Computer processor
+ANSWER: A
+
+28. What does a contour line represent on a topographic map?
+A. Road width
+B. River discharge
+C. Soil temperature
+D. A line connecting points of equal elevation
+ANSWER: D
+
+29. What do closely spaced contour lines indicate?
+A. Flat terrain
+B. Steep slope
+C. Water body
+D. Low population
+ANSWER: B
+
+30. What do widely spaced contour lines generally indicate?
+A. Very steep terrain
+B. Deep valleys
+C. Gentle or gradual slope
+D. Vertical cliffs
+ANSWER: C
+
+31. Which landform is generally characterized by a high elevation and relatively flat top?
+A. Plateau
+B. Valley
+C. Delta
+D. Basin
+ANSWER: A
+
+32. What is a valley?
+A. A flat elevated region
+B. A volcanic mountain peak
+C. A coastal sand dune
+D. A low area between hills or mountains, often containing a river
+ANSWER: D
+
+33. Which drainage pattern resembles the branches of a tree?
+A. Radial
+B. Dendritic
+C. Trellis
+D. Rectangular
+ANSWER: B
+
+34. Which drainage pattern develops when streams flow outward from a central elevated area?
+A. Parallel
+B. Trellis
+C. Radial
+D. Dendritic
+ANSWER: C
+
+35. Which drainage pattern is commonly associated with folded geological structures?
+A. Trellis
+B. Radial
+C. Centripetal
+D. Dendritic
+ANSWER: A
+
+36. Which drainage pattern is characterized by streams following approximately parallel paths?
+A. Annular
+B. Radial
+C. Rectangular
+D. Parallel
+ANSWER: D
+
+37. Which drainage pattern is characterized by streams flowing inward toward a central depression?
+A. Dendritic
+B. Centripetal
+C. Radial
+D. Trellis
+ANSWER: B
+
+38. Which drainage pattern is commonly associated with jointed or faulted rocks?
+A. Dendritic
+B. Radial
+C. Rectangular
+D. Parallel
+ANSWER: C
+
+39. What does drainage texture refer to?
+A. The relative spacing and frequency of drainage channels in an area
+B. The colour of river water
+C. The length of a road
+D. The depth of groundwater
+ANSWER: A
+
+40. What is fine drainage texture?
+A. Widely spaced drainage channels
+B. Absence of streams
+C. Very few drainage channels
+D. Closely spaced and numerous drainage channels
+ANSWER: D
+
+41. Which condition generally produces coarse drainage texture?
+A. Impermeable clayey soil
+B. Highly permeable soil or rock
+C. Very dense vegetation only
+D. Extremely high rainfall in all cases
+ANSWER: B
+
+42. What is the main cause of drainage pattern development?
+A. Computer processing
+B. Satellite movement
+C. Geological structure, rock characteristics and topography
+D. Population distribution
+ANSWER: C
+
+43. What is soil erosion?
+A. Removal and transportation of soil by natural agents
+B. Formation of new mountains
+C. Increase in soil fertility
+D. Growth of vegetation
+ANSWER: A
+
+44. Which of the following is a major agent of soil erosion?
+A. Electricity
+B. Computer radiation
+C. Magnetic fields
+D. Running water
+ANSWER: D
+
+45. What is sheet erosion?
+A. Removal of soil in deep channels
+B. Uniform removal of a thin layer of soil from the land surface
+C. Formation of large sand dunes
+D. Deposition of sediments in rivers
+ANSWER: B
+
+46. What is rill erosion?
+A. Formation of large valleys
+B. Wind deposition
+C. Removal of soil through small channels formed by running water
+D. Coastal wave action
+ANSWER: C
+
+47. What is gully erosion?
+A. Formation of large and deep channels due to concentrated runoff
+B. Uniform removal of a thin soil layer
+C. Deposition of river sediments
+D. Formation of groundwater aquifers
+ANSWER: A
+
+48. Which type of erosion is primarily caused by wind?
+A. Sheet erosion
+B. Rill erosion
+C. Gully erosion
+D. Aeolian erosion
+ANSWER: D
+
+49. Which human activity can accelerate soil erosion?
+A. Afforestation
+B. Deforestation
+C. Contour farming
+D. Terracing
+ANSWER: B
+
+50. Which conservation practice helps reduce soil erosion on sloping agricultural land?
+A. Overgrazing
+B. Deforestation
+C. Contour ploughing
+D. Uncontrolled excavation
+ANSWER: C
+
+51. Which of the following is a basic element of visual image interpretation?
+A. Tone or colour
+B. Computer speed
+C. File extension
+D. Internet protocol
+ANSWER: A
+
+52. What does image tone refer to?
+A. The geographical coordinates of an object
+B. The height of an object
+C. The shape of an object
+D. The relative brightness or darkness of an image feature
+ANSWER: D
+
+53. What does texture refer to in image interpretation?
+A. Exact geographical location
+B. Frequency of tonal variation and apparent smoothness or roughness
+C. Object height only
+D. Satellite orbital speed
+ANSWER: B
+
+54. Which image interpretation element describes the external outline of an object?
+A. Tone
+B. Texture
+C. Shape
+D. Shadow
+ANSWER: C
+
+55. What does the size element indicate during image interpretation?
+A. The dimensions of an object as represented in the image
+B. The weight of the object
+C. The age of the satellite
+D. The temperature of the object
+ANSWER: A
+
+56. What does the pattern element represent?
+A. Brightness of an individual pixel
+B. Satellite sensor temperature
+C. Elevation of a single point
+D. Spatial arrangement or repetition of objects
+ANSWER: D
+
+57. How does shadow help in image interpretation?
+A. It directly measures soil pH
+B. It provides clues about object height and shape
+C. It determines population density
+D. It identifies exact land ownership
+ANSWER: B
+
+58. What is the meaning of site in visual image interpretation?
+A. The colour of an object
+B. The texture of a photograph
+C. The actual geographical location or topographic setting of an object
+D. The size of a satellite
+ANSWER: C
+
+59. What does association mean in image interpretation?
+A. Identifying an object based on its relationship with nearby features
+B. Measuring the brightness of a pixel
+C. Calculating the image file size
+D. Measuring the distance between satellites
+ANSWER: A
+
+60. Which combination is most useful for identifying a school in a satellite image?
+A. Pixel value only
+B. Shadow only
+C. Colour only
+D. Shape, size, pattern and association
+ANSWER: D
+
+61. Which element of image interpretation is particularly useful for distinguishing a railway line from a road?
+A. Tone alone
+B. Pattern and association
+C. Shadow alone
+D. Image file size
+ANSWER: B
+
+62. What is the main purpose of using multiple interpretation elements together?
+A. To increase image noise
+B. To remove geographical features
+C. To improve the reliability of feature identification
+D. To reduce the image resolution
+ANSWER: C
+
+63. What is visual image interpretation equipment?
+A. Instruments used to examine and analyse images visually
+B. Devices used only for measuring rainfall
+C. Equipment used to construct roads
+D. Tools used for soil excavation
+ANSWER: A
+
+64. Which instrument is traditionally used for viewing aerial photographs stereoscopically?
+A. GPS receiver
+B. Total station
+C. Theodolite
+D. Stereoscope
+ANSWER: D
+
+65. What is the main function of a stereoscope?
+A. Measuring water quality
+B. Producing a three-dimensional view from overlapping photographs
+C. Calculating population density
+D. Measuring satellite altitude
+ANSWER: B
+
+66. Which type of stereoscope uses mirrors to provide a wider viewing arrangement?
+A. Pocket stereoscope
+B. Hand lens
+C. Mirror stereoscope
+D. Magnifying glass
+ANSWER: C
+
+67. What is a pocket stereoscope?
+A. A compact instrument used to view overlapping aerial photographs in 3D
+B. A satellite communication device
+C. A digital map printer
+D. A groundwater measuring instrument
+ANSWER: A
+
+68. Which instrument is useful for examining small details in aerial photographs?
+A. Compass
+B. GPS receiver
+C. Rain gauge
+D. Magnifying lens
+ANSWER: D
+
+69. What is the purpose of a parallax bar in aerial photograph interpretation?
+A. Measuring soil moisture
+B. Measuring parallax differences for determining height
+C. Recording rainfall
+D. Measuring road traffic
+ANSWER: B
+
+70. What is stereoscopic vision?
+A. Viewing an image in black and white
+B. Measuring the brightness of pixels
+C. Perceiving depth through the combination of two slightly different views
+D. Viewing an image using a single eye
+ANSWER: C
+
+71. Which equipment is commonly used for displaying and examining digital satellite images?
+A. Computer monitor
+B. Rain gauge
+C. Soil sampler
+D. Measuring tape
+ANSWER: A
+
+72. Which software function is useful for visual interpretation of satellite images?
+A. Audio recording
+B. Word processing
+C. Spreadsheet printing
+D. Image enhancement and band combination
+ANSWER: D
+
+73. What is the purpose of a magnifying stereoscope in aerial photograph interpretation?
+A. Measuring atmospheric pressure
+B. Enlarging image details while providing stereoscopic viewing
+C. Measuring groundwater flow
+D. Calculating satellite speed
+ANSWER: B
+
+74. Which factor is important when selecting equipment for visual image interpretation?
+A. Equipment colour
+B. Brand name only
+C. Image scale, resolution and interpretation requirement
+D. Computer wallpaper
+ANSWER: C
+
+75. What is the major advantage of combining field verification with visual image interpretation?
+A. It helps confirm the identity and characteristics of features observed in images
+B. It eliminates the need for image data
+C. It reduces geographical accuracy
+D. It removes all spatial information
+ANSWER: A
+
+
+CO3
+1. What is the full form of GIS?
+A. Geographic Information System
+B. Global Information Service
+C. Geographical Internet System
+D. General Information Software
+ANSWER: A
+
+2. Which organization played a major role in developing the early GIS known as Canada Geographic Information System (CGIS)?
+A. NASA
+B. Canadian government
+C. European Space Agency
+D. United Nations
+ANSWER: B
+
+3. Who is widely recognized as the father of GIS?
+A. Roger Tomlinson
+B. Michael Goodchild
+C. Jack Dangermond
+D. Peter Burrough
+ANSWER: A
+
+4. During which decade was the Canada Geographic Information System developed?
+A. 1940s
+B. 1950s
+C. 1960s
+D. 1990s
+ANSWER: C
+
+5. What was one of the major objectives of early GIS development?
+A. Creating computer games
+B. Developing communication networks
+C. Designing automobiles
+D. Managing and analyzing geographical data
+ANSWER: D
+
+6. Which technology significantly contributed to the development of modern GIS?
+A. Computer technology
+B. Printing technology only
+C. Audio technology
+D. Mechanical calculators only
+ANSWER: A
+
+7. What is the primary purpose of GIS?
+A. Processing audio signals
+B. Capturing, storing, analyzing and displaying spatial data
+C. Developing operating systems
+D. Managing financial transactions
+ANSWER: B
+
+8. What does GIS architecture describe?
+A. The geographical boundaries of a country
+B. The colour of digital maps
+C. The structural arrangement of GIS components and their interactions
+D. The size of satellite images
+ANSWER: C
+
+9. Which of the following is a major component of GIS?
+A. Keyboard only
+B. Printer only
+C. Internet connection only
+D. Hardware
+ANSWER: D
+
+10. Which GIS component contains the software used for spatial data processing and analysis?
+A. Software
+B. Hardware
+C. People
+D. Procedures
+ANSWER: A
+
+11. Which GIS component represents the individuals who operate and manage GIS?
+A. Data
+B. People
+C. Hardware
+D. Software
+ANSWER: B
+
+12. Which of the following is considered the most important component for meaningful GIS analysis?
+A. Monitor
+B. Keyboard
+C. Data
+D. Printer
+ANSWER: C
+
+13. What is the correct general sequence of a GIS workflow?
+A. Output, input, storage, analysis
+B. Analysis, output, input, storage
+C. Storage, output, input, analysis
+D. Data input, data management, analysis and output
+ANSWER: D
+
+14. Which stage of the GIS workflow involves collecting geographical information?
+A. Data input
+B. Data output
+C. Map printing
+D. Data visualization
+ANSWER: A
+
+15. Which GIS workflow stage involves applying spatial operations to geographic datasets?
+A. Data collection
+B. Spatial analysis
+C. Data entry
+D. Data printing
+ANSWER: B
+
+16. What are functional elements of GIS?
+A. Types of computer monitors
+B. Different map colours
+C. Basic activities performed by a GIS
+D. Types of network cables
+ANSWER: C
+
+17. Which of the following is a fundamental functional element of GIS?
+A. Word processing
+B. Audio recording
+C. Video editing
+D. Data storage and retrieval
+ANSWER: D
+
+18. Which GIS function is responsible for identifying relationships between geographical features?
+A. Spatial analysis
+B. Text editing
+C. Audio processing
+D. File compression
+ANSWER: A
+
+19. What is the primary purpose of GIS data retrieval?
+A. Deleting all spatial information
+B. Accessing stored geographical information
+C. Changing satellite orbits
+D. Creating computer hardware
+ANSWER: B
+
+20. Which theoretical concept explains how spatial information is represented and manipulated in GIS?
+A. Computer networking
+B. Digital communication
+C. Spatial data modelling
+D. Image compression
+ANSWER: C
+
+21. Which operation combines two or more spatial datasets to produce new information?
+A. Keyboard entry
+B. File deletion
+C. Data printing
+D. Overlay analysis
+ANSWER: D
+
+22. Which GIS operation identifies features located within a specified distance from another feature?
+A. Buffer analysis
+B. Image enhancement
+C. Data compression
+D. Attribute sorting
+ANSWER: A
+
+23. Which GIS operation is used to identify the shortest or most suitable route between locations?
+A. Image classification
+B. Network analysis
+C. Data scanning
+D. Manual digitizing
+ANSWER: B
+
+24. Which of the following is a common GIS category based on data structure?
+A. Analog and digital printers
+B. Local and international networks
+C. Raster and vector GIS
+D. Audio and video systems
+ANSWER: C
+
+25. Which type of GIS is mainly designed for storing and analyzing geographical information?
+A. Word processing system
+B. Spreadsheet formatting system
+C. Database printing system
+D. Spatial information system
+ANSWER: D
+
+26. Which data input method involves entering attribute information using a keyboard?
+A. Keyboard entry
+B. Manual digitizing
+C. Scanning
+D. Photogrammetry
+ANSWER: A
+
+27. Which method is commonly used to convert paper maps into digital vector features?
+A. Keyboard entry
+B. Manual digitizing
+C. Image printing
+D. Data compression
+ANSWER: B
+
+28. What is the main purpose of manual digitizing in GIS?
+A. Measuring atmospheric pressure
+B. Printing satellite images
+C. Converting map features into digital spatial data
+D. Calculating population growth
+ANSWER: C
+
+29. Which device is traditionally used for manual digitizing?
+A. Printer
+B. Scanner
+C. GPS satellite
+D. Digitizing tablet
+ANSWER: D
+
+30. What is scanning in GIS data input?
+A. Converting paper maps or documents into digital images
+B. Entering text using a keyboard
+C. Measuring slope using GPS
+D. Creating database tables
+ANSWER: A
+
+31. Which GIS process converts scanned map images into vector features automatically or semi-automatically?
+A. Keyboard entry
+B. Automatic digitizing
+C. Map printing
+D. Attribute joining
+ANSWER: B
+
+32. What is the main advantage of automatic digitizing over manual digitizing?
+A. It eliminates all data errors
+B. It does not require any input data
+C. It can reduce the time required to convert map features
+D. It always produces perfect vector data
+ANSWER: C
+
+33. What is georeferencing in GIS?
+A. Deleting geographical features
+B. Converting vector data into text
+C. Measuring computer performance
+D. Assigning real-world coordinates to spatial data
+ANSWER: D
+
+34. Which method is commonly used to georeference a scanned map?
+A. Ground Control Points
+B. Audio signals
+C. Text formatting
+D. Database sorting
+ANSWER: A
+
+35. Which of the following is an important step after scanning a paper map?
+A. Deleting the scanned image
+B. Georeferencing the scanned image
+C. Converting it into audio
+D. Removing all coordinates
+ANSWER: B
+
+36. What is GIS data modelling?
+A. Designing computer keyboards
+B. Creating internet connections
+C. Representing real-world geographical features digitally
+D. Measuring computer temperature
+ANSWER: C
+
+37. What is the first stage of the traditional GIS data modelling process?
+A. Physical modelling
+B. Logical modelling
+C. Database implementation
+D. Conceptual modelling
+ANSWER: D
+
+38. Which stage of GIS data modelling identifies entities, attributes and relationships?
+A. Conceptual modelling
+B. Physical modelling
+C. Data printing
+D. Map scanning
+ANSWER: A
+
+39. Which stage of GIS data modelling describes the organization of data structures and relationships?
+A. Conceptual modelling
+B. Logical modelling
+C. Physical modelling
+D. Data visualization
+ANSWER: B
+
+40. Which stage of GIS data modelling deals with actual database implementation?
+A. Conceptual modelling
+B. Logical modelling
+C. Physical modelling
+D. Map interpretation
+ANSWER: C
+
+41. What are the three traditional stages of GIS data modelling?
+A. Input, output and printing
+B. Scanning, editing and display
+C. Collection, storage and deletion
+D. Conceptual, logical and physical
+ANSWER: D
+
+42. Which data model represents geographical features using cells or pixels?
+A. Raster data model
+B. Vector data model
+C. Network data model
+D. Relational data model
+ANSWER: A
+
+43. Which data model represents geographical features using points, lines and polygons?
+A. Raster
+B. Vector
+C. Grid
+D. Image-only
+ANSWER: B
+
+44. Which data model is most suitable for representing continuous phenomena such as elevation and temperature?
+A. Vector
+B. Network
+C. Raster
+D. Relational
+ANSWER: C
+
+45. Which vector geometry is most suitable for representing a school location?
+A. Polygon
+B. Raster cell
+C. Line
+D. Point
+ANSWER: D
+
+46. Which vector geometry is most suitable for representing a road?
+A. Line
+B. Point
+C. Polygon
+D. Raster cell
+ANSWER: A
+
+47. Which vector geometry is most suitable for representing a lake boundary?
+A. Point
+B. Polygon
+C. Line
+D. Pixel
+ANSWER: B
+
+48. What does raster resolution refer to?
+A. Number of vector points
+B. Number of map layers
+C. Ground area represented by each pixel or cell
+D. Number of attribute tables
+ANSWER: C
+
+49. What happens when raster cell size becomes smaller?
+A. Spatial detail always decreases
+B. File size always becomes zero
+C. Geographic coordinates disappear
+D. Spatial detail generally increases
+ANSWER: D
+
+50. Which of the following is an advantage of the vector data model?
+A. Precise representation of discrete geographical features
+B. Best representation of all continuous surfaces
+C. No need for coordinates
+D. No requirement for attribute data
+ANSWER: A
+
+51. Which of the following is an advantage of the raster data model?
+A. It represents road networks only
+B. It is suitable for continuous spatial data analysis
+C. It stores only point features
+D. It cannot represent elevation
+ANSWER: B
+
+52. What is a spatial data model?
+A. A computer hardware configuration
+B. A method of printing maps
+C. A framework for representing geographical features and relationships
+D. A technique for increasing internet speed
+ANSWER: C
+
+53. Which data structure stores geographical information in rows and columns of cells?
+A. Vector
+B. Network
+C. Topological
+D. Raster
+ANSWER: D
+
+54. What is topology in GIS?
+A. The study of spatial relationships between geographical features
+B. The study of computer processors
+C. The process of printing maps
+D. A method of image compression
+ANSWER: A
+
+55. Which of the following is an example of a topological relationship?
+A. Pixel brightness
+B. Adjacency between two polygons
+C. File size
+D. Screen resolution
+ANSWER: B
+
+56. What is GIS data editing?
+A. Deleting the entire GIS database
+B. Changing computer hardware
+C. Modifying spatial and attribute data to improve correctness
+D. Removing geographical coordinates
+ANSWER: C
+
+57. Which operation is used to combine two connected line segments into one feature?
+A. Buffering
+B. Clipping
+C. Interpolation
+D. Merging
+ANSWER: D
+
+58. What is the purpose of snapping in GIS editing?
+A. Ensuring that features connect accurately at specified locations
+B. Increasing image brightness
+C. Deleting attribute records
+D. Converting raster data into audio
+ANSWER: A
+
+59. Which GIS editing operation is used to remove unwanted portions of a feature?
+A. Georeferencing
+B. Trimming
+C. Buffering
+D. Interpolation
+ANSWER: B
+
+60. What is an attribute error in GIS?
+A. Incorrect map projection only
+B. Incorrect satellite altitude
+C. Incorrect information stored in a feature's attribute table
+D. Incorrect computer screen size
+ANSWER: C
+
+61. What is a positional error in GIS?
+A. Incorrect feature name
+B. Missing attribute description
+C. Incorrect data format
+D. Incorrect geographical location of a feature
+ANSWER: D
+
+62. Which of the following is a common source of GIS data error?
+A. Inaccurate source maps
+B. Correct coordinate systems
+C. Proper data validation
+D. Accurate field measurements
+ANSWER: A
+
+63. What is digitizing error?
+A. Error caused by satellite communication
+B. Error introduced while converting map features into digital data
+C. Error caused by computer shutdown
+D. Error in printing a report
+ANSWER: B
+
+64. What is an omission error in GIS?
+A. Recording a feature twice
+B. Assigning the wrong coordinate system
+C. Failing to include an existing geographical feature
+D. Using an incorrect map colour
+ANSWER: C
+
+65. What is a commission error in GIS?
+A. Missing a geographical feature
+B. Removing an attribute table
+C. Changing the map scale
+D. Including a feature that does not actually exist
+ANSWER: D
+
+66. Which error can occur when combining spatial datasets with different coordinate reference systems?
+A. Spatial misalignment
+B. Correct data integration
+C. Improved resolution
+D. Increased attribute accuracy
+ANSWER: A
+
+67. What is the purpose of topology validation in GIS?
+A. Increasing image brightness
+B. Detecting spatial errors such as gaps and overlaps
+C. Changing satellite frequencies
+D. Reducing computer memory
+ANSWER: B
+
+68. Which of the following is a common example of a topological error?
+A. Correct polygon adjacency
+B. Accurate point location
+C. Overlapping polygons where overlap is not permitted
+D. Correct attribute values
+ANSWER: C
+
+69. What is the main purpose of data validation in GIS?
+A. Increasing the number of map layers
+B. Changing the map colour
+C. Deleting all spatial features
+D. Checking data accuracy and consistency
+ANSWER: D
+
+70. Which method helps detect duplicate records in a GIS attribute table?
+A. Database queries and validation
+B. Image sharpening
+C. GPS satellite tracking
+D. Raster interpolation
+ANSWER: A
+
+71. What is the sliver polygon problem in GIS?
+A. A large polygon representing a country
+B. A narrow unwanted polygon created due to overlay or boundary mismatch
+C. A point representing a village
+D. A line representing a river
+ANSWER: B
+
+72. Which technique can help correct errors caused by small gaps between adjacent polygons?
+A. Image compression
+B. Keyboard entry
+C. Snapping and topology correction
+D. Data deletion
+ANSWER: C
+
+73. What is the purpose of metadata in GIS?
+A. Changing the map projection
+B. Deleting spatial information
+C. Increasing the number of pixels
+D. Describing the characteristics, source and quality of spatial data
+ANSWER: D
+
+74. Which of the following is a source of temporal error in GIS?
+A. Using outdated geographical data
+B. Using correct coordinates
+C. Proper data validation
+D. Accurate field surveying
+ANSWER: A
+
+75. Which approach is most effective for improving the overall quality of GIS datasets?
+A. Ignoring data errors
+B. Data validation, quality control and error correction
+C. Removing all attribute information
+D. Using only scanned images
+ANSWER: B
+
+
+CO4
+1. What is the full form of GPS?
+A. Global Positioning System
+B. Geographic Processing System
+C. General Positioning Service
+D. Global Processing Satellite
+ANSWER: A
+
+2. Which organization originally developed GPS?
+A. NASA
+B. United States Department of Defense
+C. European Space Agency
+D. ISRO
+ANSWER: B
+
+3. How many segments are present in the GPS architecture?
+A. Two
+B. Four
+C. Three
+D. Five
+ANSWER: C
+
+4. Which of the following is NOT a major segment of GPS?
+A. Space segment
+B. Control segment
+C. User segment
+D. Atmospheric segment
+ANSWER: D
+
+5. What is the primary function of the GPS space segment?
+A. Transmitting navigation signals from satellites
+B. Preparing digital maps
+C. Monitoring groundwater
+D. Managing land records
+ANSWER: A
+
+6. What is the main function of the GPS control segment?
+A. Receiving signals from mobile phones
+B. Monitoring and managing GPS satellites
+C. Producing satellite images
+D. Measuring rainfall
+ANSWER: B
+
+7. Which component of GPS receives satellite signals to determine location?
+A. Ground control station
+B. Satellite antenna
+C. GPS receiver
+D. Weather radar
+ANSWER: C
+
+8. What is the basic principle used by GPS to calculate position?
+A. Triangulation using angles
+B. Electromagnetic reflection
+C. Image classification
+D. Trilateration using distances
+ANSWER: D
+
+9. What is the minimum number of satellites generally required for a three-dimensional GPS position and receiver clock correction?
+A. Four
+B. Two
+C. Three
+D. Six
+ANSWER: A
+
+10. What does a GPS receiver calculate using satellite signals?
+A. Soil moisture only
+B. Distance from satellites
+C. Atmospheric pressure
+D. Land surface temperature
+ANSWER: B
+
+11. Which atmospheric layer causes significant delays in GPS signals due to ionization?
+A. Troposphere
+B. Stratosphere
+C. Ionosphere
+D. Mesosphere
+ANSWER: C
+
+12. Which factor can reduce GPS positioning accuracy?
+A. Clear sky visibility
+B. Use of multiple satellites
+C. Open terrain
+D. Multipath signal errors
+ANSWER: D
+
+13. Which GPS technique improves positioning accuracy using a nearby reference station?
+A. DGPS
+B. GIS
+C. LIDAR
+D. RADAR
+ANSWER: A
+
+14. What is the main purpose of GPS in vehicle navigation?
+A. Measuring soil pH
+B. Determining vehicle location and route
+C. Measuring water quality
+D. Monitoring vegetation density
+ANSWER: B
+
+15. Which GPS application is most useful in precision agriculture?
+A. Ocean temperature measurement
+B. Building height estimation
+C. Accurate field positioning and farm machinery guidance
+D. Mineral processing
+ANSWER: C
+
+16. Which data is primarily represented in a Land Use/Land Cover map?
+A. Only elevation
+B. Only rainfall
+C. Only groundwater depth
+D. Types of land utilization and surface cover
+ANSWER: D
+
+17. Which of the following is an example of Land Use?
+A. Agricultural land
+B. Granite rock
+C. River water
+D. Natural soil texture
+ANSWER: A
+
+18. Which of the following is an example of Land Cover?
+A. Industrial development
+B. Forest vegetation
+C. Residential zoning
+D. Commercial activity
+ANSWER: B
+
+19. Which remote sensing technique is commonly used for Land Use/Land Cover classification?
+A. Seismic surveying
+B. Groundwater pumping
+C. Supervised classification
+D. GPS trilateration
+ANSWER: C
+
+20. Which satellite is widely used for Land Use/Land Cover studies?
+A. INSAT communication satellite
+B. GPS navigation satellite
+C. Communication relay satellite
+D. Landsat satellite
+ANSWER: D
+
+21. What is the Normalized Difference Vegetation Index (NDVI) mainly used for?
+A. Assessing vegetation health and density
+B. Measuring road length
+C. Identifying building materials
+D. Measuring groundwater pressure
+ANSWER: A
+
+22. Which remote sensing bands are used to calculate NDVI?
+A. Blue and green
+B. Red and near-infrared
+C. Thermal and microwave
+D. Ultraviolet and blue
+ANSWER: B
+
+23. What is the main purpose of change detection in Land Use/Land Cover studies?
+A. Measuring satellite speed
+B. Calculating GPS clock errors
+C. Identifying changes in land cover over time
+D. Measuring river discharge only
+ANSWER: C
+
+24. Which GIS operation is useful for calculating the area of different land cover classes?
+A. Network routing
+B. Geocoding
+C. Buffer generation
+D. Area calculation and spatial analysis
+ANSWER: D
+
+25. Which data source is commonly used to prepare Land Use/Land Cover maps?
+A. Satellite imagery
+B. Audio recordings
+C. Text documents
+D. Financial reports
+ANSWER: A
+
+26. What does a slope map represent?
+A. Soil chemical composition
+B. Rate of change of elevation with horizontal distance
+C. Groundwater salinity
+D. Population density
+ANSWER: B
+
+27. Which input data is commonly used to generate a slope map in GIS?
+A. Census data
+B. Road network data
+C. Digital Elevation Model
+D. Soil pH records
+ANSWER: C
+
+28. In which unit is slope commonly expressed?
+A. Kilograms
+B. Litres
+C. Degrees Celsius
+D. Degrees or percentage
+ANSWER: D
+
+29. Which terrain condition is generally more susceptible to surface runoff?
+A. Steep slopes
+B. Flat plains
+C. Level agricultural fields
+D. Coastal beaches
+ANSWER: A
+
+30. Which GIS operation is used to derive slope from elevation data?
+A. Overlay analysis
+B. Terrain analysis
+C. Network analysis
+D. Attribute joining
+ANSWER: B
+
+31. What is a Digital Elevation Model (DEM)?
+A. A database of population
+B. A map of soil nutrients
+C. A digital representation of ground surface elevation
+D. A groundwater quality report
+ANSWER: C
+
+32. Which of the following is an important application of slope mapping?
+A. Credit card processing
+B. Weather forecasting only
+C. Vehicle registration
+D. Road alignment and landslide susceptibility analysis
+ANSWER: D
+
+33. What is the primary objective of groundwater prospect mapping?
+A. Identifying areas suitable for groundwater occurrence
+B. Measuring traffic density
+C. Mapping building heights
+D. Identifying industrial emissions
+ANSWER: A
+
+34. Which of the following is an important factor in groundwater prospect mapping?
+A. Internet speed
+B. Geology and geological structures
+C. Vehicle population
+D. Political boundaries
+ANSWER: B
+
+35. Which landform generally supports groundwater recharge?
+A. Concrete surfaces
+B. Steep rocky cliffs
+C. Valley fills and weathered zones
+D. Industrial rooftops
+ANSWER: C
+
+36. Which remote sensing feature can help identify groundwater potential zones?
+A. Building colours
+B. Road traffic
+C. Administrative boundaries
+D. Lineaments and drainage patterns
+ANSWER: D
+
+37. What are lineaments in geological mapping?
+A. Linear features representing possible geological structures
+B. Circular urban settlements
+C. Agricultural field boundaries only
+D. River water quality values
+ANSWER: A
+
+38. Which GIS method is commonly used to prepare groundwater potential maps?
+A. Text formatting
+B. Weighted overlay analysis
+C. Network packet analysis
+D. Image compression
+ANSWER: B
+
+39. Which of the following is a common groundwater recharge structure?
+A. Flyover
+B. Railway station
+C. Check dam
+D. Shopping complex
+ANSWER: C
+
+40. Which factor indicates groundwater availability in a region?
+A. Building density alone
+B. Road width
+C. Population age
+D. Well yield and aquifer characteristics
+ANSWER: D
+
+41. What is a watershed?
+A. An area draining water to a common outlet
+B. A type of urban road
+C. A groundwater treatment plant
+D. A satellite communication zone
+ANSWER: A
+
+42. What is the main objective of watershed management?
+A. Increasing traffic congestion
+B. Conserving soil and water resources
+C. Increasing industrial pollution
+D. Reducing vegetation cover
+ANSWER: B
+
+43. Which GIS technique is used to identify watershed boundaries?
+A. Image sharpening
+B. Network buffering
+C. DEM-based hydrological analysis
+D. Statistical sampling only
+ANSWER: C
+
+44. What is the purpose of a drainage network map in watershed management?
+A. Identifying building materials
+B. Calculating population income
+C. Monitoring vehicle speed
+D. Understanding surface water flow patterns
+ANSWER: D
+
+45. Which structure is commonly used for soil and water conservation in watersheds?
+A. Check dam
+B. Airport runway
+C. Industrial chimney
+D. Railway bridge
+ANSWER: A
+
+46. What is the purpose of a watershed action plan?
+A. Increasing urban traffic
+B. Identifying and prioritizing conservation and development activities
+C. Measuring satellite orbits
+D. Mapping communication towers only
+ANSWER: B
+
+47. Which factor is important when prioritizing watershed development activities?
+A. Internet usage
+B. Vehicle colour
+C. Erosion risk and drainage characteristics
+D. Building decoration
+ANSWER: C
+
+48. Which GIS analysis helps identify suitable locations for rainwater harvesting structures?
+A. Text classification
+B. Network address translation
+C. Audio analysis
+D. Spatial suitability analysis
+ANSWER: D
+
+49. What is the main objective of water quality modelling?
+A. Predicting and assessing water quality conditions
+B. Measuring building heights
+C. Calculating road traffic
+D. Identifying land ownership
+ANSWER: A
+
+50. Which of the following is a common water quality parameter?
+A. Road width
+B. pH
+C. Building density
+D. Satellite altitude
+ANSWER: B
+
+51. What does Biological Oxygen Demand (BOD) indicate?
+A. Amount of suspended sand only
+B. Total road length
+C. Oxygen required by microorganisms to decompose biodegradable organic matter
+D. Ground elevation
+ANSWER: C
+
+52. What does high Chemical Oxygen Demand (COD) generally indicate?
+A. Low population density
+B. High groundwater level
+C. Low soil erosion
+D. High concentration of chemically oxidizable substances
+ANSWER: D
+
+53. Which GIS function is useful for mapping water quality sampling locations?
+A. Spatial mapping and interpolation
+B. Audio editing
+C. Text translation
+D. Network security
+ANSWER: A
+
+54. Which of the following models is commonly used to simulate water quality in rivers?
+A. GPS trilateration model
+B. QUAL2K
+C. NDVI model
+D. Slope gradient model
+ANSWER: B
+
+55. What is the main purpose of monitoring dissolved oxygen in water bodies?
+A. Measuring road capacity
+B. Calculating land prices
+C. Assessing aquatic ecosystem health
+D. Identifying satellite position
+ANSWER: C
+
+56. What is saltwater intrusion?
+A. Entry of rainwater into forests
+B. Movement of soil particles by wind
+C. Increase in freshwater recharge
+D. Movement of saline water into freshwater aquifers
+ANSWER: D
+
+57. Which activity can increase saltwater intrusion in coastal aquifers?
+A. Excessive groundwater pumping
+B. Rainwater harvesting
+C. Afforestation
+D. Controlled groundwater extraction
+ANSWER: A
+
+58. Which model is commonly used to simulate variable-density groundwater flow and saltwater intrusion?
+A. HEC-HMS
+B. SEAWAT
+C. ArcMap Layout
+D. NDVI
+ANSWER: B
+
+59. Which parameter is important in saltwater intrusion modelling?
+A. Road traffic volume
+B. Building height
+C. Groundwater salinity
+D. Population literacy
+ANSWER: C
+
+60. What is the main objective of monitoring the freshwater-saltwater interface?
+A. Measuring forest density
+B. Calculating road gradients
+C. Identifying urban boundaries
+D. Assessing the extent of saltwater intrusion
+ANSWER: D
+
+61. Which GIS analysis is useful for selecting a suitable pipeline alignment?
+A. Least-cost path analysis
+B. Text formatting
+C. Audio classification
+D. Image watermarking
+ANSWER: A
+
+62. Which factor should be considered while selecting a pipeline route?
+A. Colour of nearby buildings
+B. Terrain slope and geological conditions
+C. Internet connection speed
+D. Number of shopping centres
+ANSWER: B
+
+63. Why should environmentally sensitive areas be avoided during pipeline alignment?
+A. To increase pipeline length
+B. To increase construction cost
+C. To reduce environmental impacts
+D. To increase land fragmentation
+ANSWER: C
+
+64. Which GIS operation is used to identify areas within a specified distance from a pipeline?
+A. Image classification
+B. Watershed delineation
+C. Slope calculation
+D. Buffer analysis
+ANSWER: D
+
+65. What is the main objective of pipeline route optimization?
+A. Finding a suitable and economical route while satisfying constraints
+B. Increasing construction hazards
+C. Avoiding all geographical information
+D. Selecting the steepest possible route
+ANSWER: A
+
+66. Which is an important criterion for selecting a solid waste disposal site?
+A. Proximity to schools only
+B. Distance from residential areas and water bodies
+C. Location in a flood-prone zone
+D. High groundwater vulnerability
+ANSWER: B
+
+67. Which GIS method is commonly used for landfill site suitability analysis?
+A. GPS clock correction
+B. Image compression
+C. Multi-criteria decision analysis
+D. Audio signal processing
+ANSWER: C
+
+68. Why should landfill sites be located away from rivers and lakes?
+A. To increase transportation time
+B. To increase land acquisition cost
+C. To improve traffic congestion
+D. To reduce the risk of water contamination
+ANSWER: D
+
+69. Which factor is important when selecting a hazardous waste disposal site?
+A. Geological stability and groundwater protection
+B. Proximity to drinking water wells
+C. Location in an ecologically sensitive area
+D. High flood susceptibility
+ANSWER: A
+
+70. What is the main purpose of a leachate collection system in a landfill?
+A. Increasing waste volume
+B. Collecting contaminated liquid generated by waste
+C. Measuring air temperature
+D. Improving road connectivity
+ANSWER: B
+
+71. What is landslide susceptibility mapping?
+A. Mapping urban population
+B. Measuring river water temperature
+C. Identifying areas prone to landslides
+D. Mapping agricultural market prices
+ANSWER: C
+
+72. Which of the following is an important factor in landslide susceptibility mapping?
+A. Mobile phone usage
+B. Building colour
+C. Internet speed
+D. Slope, geology and land cover
+ANSWER: D
+
+73. Which GIS technique is commonly used in landslide susceptibility analysis?
+A. Weighted overlay analysis
+B. Text editing
+C. Audio recording
+D. Database encryption
+ANSWER: A
+
+74. How can GIS support urban planning and management?
+A. Measuring satellite clock errors
+B. Analysing land use, infrastructure and urban growth
+C. Predicting credit card transactions
+D. Measuring ocean salinity only
+ANSWER: B
+
+75. Which GIS analysis is most useful for identifying suitable locations for new urban facilities?
+A. GPS signal modulation
+B. Audio classification
+C. Site suitability analysis
+D. Satellite clock synchronization
+ANSWER: C

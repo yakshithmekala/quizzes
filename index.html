@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GeoQuiz Master - Remote Sensing, GIS & GPS Academic Quiz Portal</title>
+  <meta name="description" content="Comprehensive interactive quiz platform with 300 questions organized CO-wise across Remote Sensing, Digital Image Processing, GIS Principles, and GPS Applications with instant CO marks and segregated mistakes revision.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <div class="logo-area" id="navLogo">
+        <div class="logo-icon">🛰️</div>
+        <div class="logo-text">
+          <h1>GeoQuiz Master</h1>
+          <p>Remote Sensing • GIS • GPS Exam Preparation</p>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <button class="btn-nav active" id="navDashboardBtn">🏠 Home</button>
+        <button class="btn-nav" id="navBankBtn">📖 Question Bank</button>
+        <button class="btn-icon" id="historyBtn" title="Past Quiz Attempts">📊</button>
+        <button class="btn-icon" id="soundToggleBtn" title="Toggle Sound">🔊</button>
+        <button class="btn-icon" id="themeToggleBtn" title="Toggle Theme">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN VIEW: DASHBOARD -->
+  <main class="view-section active" id="viewDashboard">
+    <div class="container">
+      
+      <!-- Hero Banner -->
+      <section class="hero-banner">
+        <h2 class="hero-title">Prepare, Test & Master Spatial Technologies</h2>
+        <p class="hero-subtitle">
+          300 verified academic questions organized across 4 Course Outcomes (CO1 to CO4). Write quizzes, get instant CO-wise marks breakdown, and review segregated mistakes to reinforce long-term memory!
+        </p>
+        <div class="hero-badges">
+          <span class="badge badge-co1">CO1: Remote Sensing (75 Qs)</span>
+          <span class="badge badge-co2">CO2: Image Processing (75 Qs)</span>
+          <span class="badge badge-co3">CO3: GIS Principles (75 Qs)</span>
+          <span class="badge badge-co4">CO4: GPS & Apps (75 Qs)</span>
+          <span class="badge badge-total">Total: 300 Questions</span>
+        </div>
+      </section>
+
+      <!-- CO Selection Grid -->
+      <div class="section-header">
+        <div>
+          <h3 class="section-title">Select a Course Outcome to Start</h3>
+          <p class="section-subtitle">Choose an individual unit or challenge yourself with the full mock exam</p>
+        </div>
+      </div>
+
+      <div class="co-grid">
+        <!-- CO1 Card -->
+        <div class="co-card" data-co="CO1">
+          <div class="co-card-header">
+            <span class="co-pill">CO1</span>
+            <span class="co-qcount">75 Questions</span>
+          </div>
+          <h4 class="co-card-title">Remote Sensing & Cartography</h4>
+          <p class="co-card-desc">
+            Principles of EMR, active vs passive sensors, spatial/spectral/temporal resolutions, satellites (IRS, Landsat, Cartosat), maps, scales, projections, and coordinate systems.
+          </p>
+          <div class="co-card-footer">
+            <button class="btn btn-primary btn-block" onclick="startQuiz('CO1', 'exam')">Take CO1 Exam</button>
+            <button class="btn btn-secondary" title="Practice Mode with Instant Explanations" onclick="startQuiz('CO1', 'practice')">💡 Practice</button>
+          </div>
+        </div>
+
+        <!-- CO2 Card -->
+        <div class="co-card" data-co="CO2">
+          <div class="co-card-header">
+            <span class="co-pill">CO2</span>
+            <span class="co-qcount">75 Questions</span>
+          </div>
+          <h4 class="co-card-title">Digital Image Processing & Geomorphology</h4>
+          <p class="co-card-desc">
+            DIP techniques, contrast enhancement, false colour composites (FCC), visual interpretation elements, stereoscopy, contour patterns, drainage textures, and erosion agents.
+          </p>
+          <div class="co-card-footer">
+            <button class="btn btn-primary btn-block" onclick="startQuiz('CO2', 'exam')">Take CO2 Exam</button>
+            <button class="btn btn-secondary" title="Practice Mode with Instant Explanations" onclick="startQuiz('CO2', 'practice')">💡 Practice</button>
+          </div>
+        </div>
+
+        <!-- CO3 Card -->
+        <div class="co-card" data-co="CO3">
+          <div class="co-card-header">
+            <span class="co-pill">CO3</span>
+            <span class="co-qcount">75 Questions</span>
+          </div>
+          <h4 class="co-card-title">GIS Architecture & Data Models</h4>
+          <p class="co-card-desc">
+            History of GIS (Roger Tomlinson, CGIS), GIS architecture and workflow, digitizing and scanning, georeferencing, raster vs vector models, topology, and error validation.
+          </p>
+          <div class="co-card-footer">
+            <button class="btn btn-primary btn-block" onclick="startQuiz('CO3', 'exam')">Take CO3 Exam</button>
+            <button class="btn btn-secondary" title="Practice Mode with Instant Explanations" onclick="startQuiz('CO3', 'practice')">💡 Practice</button>
+          </div>
+        </div>
+
+        <!-- CO4 Card -->
+        <div class="co-card" data-co="CO4">
+          <div class="co-card-header">
+            <span class="co-pill">CO4</span>
+            <span class="co-qcount">75 Questions</span>
+          </div>
+          <h4 class="co-card-title">GPS & Environmental Spatial Modeling</h4>
+          <p class="co-card-desc">
+            GPS architecture and trilateration, LULC & NDVI, DEM slope analysis, groundwater prospecting, watershed management, water quality (BOD/COD), and site suitability.
+          </p>
+          <div class="co-card-footer">
+            <button class="btn btn-primary btn-block" onclick="startQuiz('CO4', 'exam')">Take CO4 Exam</button>
+            <button class="btn btn-secondary" title="Practice Mode with Instant Explanations" onclick="startQuiz('CO4', 'practice')">💡 Practice</button>
+          </div>
+        </div>
+
+        <!-- All COs Card -->
+        <div class="co-card" data-co="ALL">
+          <div class="co-card-header">
+            <span class="co-pill" style="background: rgba(79, 70, 229, 0.1);">ALL COs</span>
+            <span class="co-qcount">300 Questions</span>
+          </div>
+          <h4 class="co-card-title">Full Comprehensive Mock Exam</h4>
+          <p class="co-card-desc">
+            Complete test covering all 4 course outcomes together. Evaluates your overall readiness with full CO-wise marks scoring and mistakes breakdown.
+          </p>
+          <div class="co-card-footer">
+            <button class="btn btn-primary btn-block" onclick="startQuiz('ALL', 'exam')">Start Full Exam (300 Qs)</button>
+            <button class="btn btn-secondary" title="Practice Mode" onclick="startQuiz('ALL', 'practice')">💡 Practice</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Custom Quiz & Revision Hub -->
+      <section class="config-panel">
+        <h3 style="font-size: 1.2rem; font-weight: 700; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+          ⚙️ Custom Practice & Quick Quizzes
+        </h3>
+
+        <div class="config-grid">
+          <div class="form-group">
+            <label>Select COs to Include</label>
+            <div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.35rem;">
+              <label style="text-transform: none; display: flex; align-items: center; gap: 0.3rem; font-size: 0.9rem; cursor: pointer;">
+                <input type="checkbox" id="co1Check" checked> CO1
+              </label>
+              <label style="text-transform: none; display: flex; align-items: center; gap: 0.3rem; font-size: 0.9rem; cursor: pointer;">
+                <input type="checkbox" id="co2Check" checked> CO2
+              </label>
+              <label style="text-transform: none; display: flex; align-items: center; gap: 0.3rem; font-size: 0.9rem; cursor: pointer;">
+                <input type="checkbox" id="co3Check" checked> CO3
+              </label>
+              <label style="text-transform: none; display: flex; align-items: center; gap: 0.3rem; font-size: 0.9rem; cursor: pointer;">
+                <input type="checkbox" id="co4Check" checked> CO4
+              </label>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="customQCount">Question Count</label>
+            <select id="customQCount" class="form-select">
+              <option value="15">15 Questions (Quick Drill)</option>
+              <option value="25">25 Questions (Sprint)</option>
+              <option value="50" selected>50 Questions (Standard)</option>
+              <option value="75">75 Questions (Full Unit)</option>
+              <option value="150">150 Questions (Half Mock)</option>
+              <option value="300">All Available Questions</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>Mode</label>
+            <div style="display: flex; gap: 1rem; margin-top: 0.35rem;">
+              <label style="text-transform: none; display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; cursor: pointer;">
+                <input type="radio" name="quizModeRadio" value="exam" checked> Exam Mode (Submit at end)
+              </label>
+              <label style="text-transform: none; display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; cursor: pointer;">
+                <input type="radio" name="quizModeRadio" value="practice"> Practice (Instant Answer)
+              </label>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="customTimer">Timer</label>
+            <select id="customTimer" class="form-select">
+              <option value="0">No Limit (Untimed)</option>
+              <option value="15">15 Minutes</option>
+              <option value="30" selected>30 Minutes</option>
+              <option value="60">60 Minutes</option>
+              <option value="120">120 Minutes (Full Exam)</option>
+            </select>
+          </div>
+        </div>
+
+        <div style="margin-top: 1.25rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+          <label style="display: flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; cursor: pointer;">
+            <input type="checkbox" id="customShuffle" checked> Shuffle Question Order
+          </label>
+          <div style="display: flex; gap: 0.75rem;">
+            <button class="btn btn-secondary" onclick="startQuiz('MISTAKES', 'practice')">🔄 Retake Saved Mistakes</button>
+            <button class="btn btn-primary" onclick="startCustomQuiz()">Launch Custom Quiz 🚀</button>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <!-- QUIZ VIEW: ACTIVE TEST SCREEN -->
+  <main class="view-section" id="viewQuiz">
+    <div class="container">
+      
+      <!-- Top Quiz Bar -->
+      <div class="quiz-top-bar">
+        <div>
+          <span class="badge badge-total" id="quizTitleBadge">CO1 Quiz</span>
+        </div>
+
+        <div class="quiz-progress-wrap">
+          <div class="quiz-progress-info">
+            <span id="progressCountText">Question 1 of 75</span>
+            <span id="progressPercentText">1%</span>
+          </div>
+          <div class="progress-bar-bg">
+            <div class="progress-bar-fill" id="progressBarFill"></div>
+          </div>
+        </div>
+
+        <div style="display: flex; align-items: center; gap: 0.75rem;">
+          <div class="quiz-timer" id="quizTimer">⏱️ 00:00</div>
+          <button class="btn btn-secondary btn-sm" id="btnExitQuiz">Exit</button>
+        </div>
+      </div>
+
+      <!-- Quiz Main Layout (Question Card + Sidebar Palette) -->
+      <div class="quiz-layout">
+        
+        <!-- Left Question Column -->
+        <div class="question-card">
+          <div class="question-header">
+            <span class="q-badge" id="qBadge">CO1 • Q1</span>
+            <button class="q-flag-btn" id="qFlagBtn">☆ Flag for Review</button>
+          </div>
+
+          <h3 class="question-text" id="questionText">
+            What is remote sensing?
+          </h3>
+
+          <div class="options-list" id="optionsList">
+            <!-- Dynamic option items -->
+          </div>
+
+          <!-- Instant Feedback Note (Practice Mode) -->
+          <div class="instant-explanation" id="instantExplanation" style="display: none;">
+            <div class="exp-title">💡 Explanation & Key Concept</div>
+            <div class="exp-body" id="expText"></div>
+          </div>
+
+          <!-- Bottom Navigation Controls -->
+          <div class="quiz-nav-btns">
+            <div class="quiz-nav-left">
+              <button class="btn btn-secondary" id="btnPrev">← Previous</button>
+              <button class="btn btn-secondary" id="btnClear">Clear</button>
+            </div>
+            <div class="quiz-nav-right">
+              <button class="btn btn-primary" id="btnNext">Next →</button>
+              <button class="btn btn-success" id="btnSubmit" style="display: none;">Submit Quiz ✔</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Palette Sidebar -->
+        <aside class="palette-card">
+          <div class="palette-title">
+            <span>Questions Palette</span>
+            <span class="badge badge-total" id="answeredCountBadge">0/75</span>
+          </div>
+
+          <div class="palette-legend">
+            <div class="legend-item"><span class="legend-dot dot-answered"></span> Answered</div>
+            <div class="legend-item"><span class="legend-dot dot-unanswered"></span> Skipped</div>
+            <div class="legend-item"><span class="legend-dot dot-flagged"></span> Flagged</div>
+            <div class="legend-item"><span class="legend-dot dot-unvisited"></span> Unvisited</div>
+          </div>
+
+          <div class="palette-grid" id="paletteGrid">
+            <!-- Dynamic numbered buttons -->
+          </div>
+        </aside>
+
+      </div>
+
+    </div>
+  </main>
+
+  <!-- RESULTS VIEW: CO-WISE MARKS & SEGREGATED MISTAKES -->
+  <main class="view-section" id="viewResults">
+    <div class="container">
+      
+      <!-- Hero Score Summary -->
+      <div class="results-hero">
+        <div class="score-circle-wrap">
+          <svg class="score-circle-svg" viewBox="0 0 120 120">
+            <circle class="score-circle-bg" cx="60" cy="60" r="54"></circle>
+            <circle class="score-circle-val" id="scoreCircleVal" cx="60" cy="60" r="54"></circle>
+          </svg>
+          <div class="score-center-text" id="scorePercentText">85%</div>
+        </div>
+
+        <h2 class="score-title" id="scoreTitleText">Score Summary</h2>
+        <p class="score-feedback" id="scoreFeedbackText"></p>
+
+        <div class="score-metrics">
+          <div class="metric-box">
+            <div class="metric-val" id="totalMarksVal">0 / 75</div>
+            <div class="metric-label">Total Marks</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-val" id="accuracyVal">0%</div>
+            <div class="metric-label">Accuracy</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-val" id="timeSpentVal">0m</div>
+            <div class="metric-label">Time Spent</div>
+          </div>
+        </div>
+
+        <div style="display: flex; justify-content: center; gap: 0.75rem; flex-wrap: wrap;">
+          <button class="btn btn-primary" id="retakeMistakesBtn">🔄 Retake Wrong Questions Only</button>
+          <button class="btn btn-secondary" id="printResultsBtn">🖨️ Print / Save Report</button>
+          <button class="btn btn-secondary" id="backToHomeBtn">🏠 Back to Dashboard</button>
+        </div>
+      </div>
+
+      <!-- CO-WISE MARKS BREAKDOWN (CORE USER REQUIREMENT) -->
+      <div class="section-header">
+        <div>
+          <h3 class="section-title">📊 Course Outcome (CO) Marks Breakdown</h3>
+          <p class="section-subtitle">Your performance evaluated separately for each Course Outcome</p>
+        </div>
+      </div>
+
+      <div class="co-breakdown-grid" id="coBreakdownGrid">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- SEGREGATED MISTAKES & REVISION HUB (CORE USER REQUIREMENT) -->
+      <div class="mistakes-container">
+        <div class="mistakes-header">
+          <div>
+            <h3 class="section-title" style="color: var(--danger); display: flex; align-items: center; gap: 0.5rem;">
+              ❌ Mistakes & Memory Revision Center
+            </h3>
+            <p class="section-subtitle">
+              All wrong and unattempted answers segregated CO-wise with correct answers and memory notes so you remember for exams!
+            </p>
+          </div>
+
+          <div class="mistakes-filter-tabs" id="mistakesFilterTabs">
+            <!-- Filter buttons: All Mistakes, CO1, CO2, CO3, CO4 -->
+          </div>
+        </div>
+
+        <div class="mistakes-list" id="mistakesList">
+          <!-- Dynamic mistake review cards -->
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- QUESTION BANK VIEW -->
+  <main class="view-section" id="viewBank">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">📖 Complete Question Bank (300 Questions)</h2>
+          <p class="section-subtitle">Search, study, and revise all questions, verified answers, and key takeaway notes across all 4 Course Outcomes</p>
+        </div>
+      </div>
+
+      <div class="search-bar-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="bankSearchInput" class="search-input" placeholder="Search any topic, keyword, question or concept (e.g., LiDAR, NDVI, Tomlinson, DEM, contour)...">
+      </div>
+
+      <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; align-items: center;">
+        <label style="font-weight: 700; font-size: 0.85rem; color: var(--text-muted);">Filter by Unit:</label>
+        <select id="bankFilterCO" class="form-select" style="max-width: 280px;">
+          <option value="ALL">All Course Outcomes (300 Qs)</option>
+          <option value="CO1">CO1: Remote Sensing (75 Qs)</option>
+          <option value="CO2">CO2: Image Processing (75 Qs)</option>
+          <option value="CO3">CO3: GIS Principles (75 Qs)</option>
+          <option value="CO4">CO4: GPS & Apps (75 Qs)</option>
+        </select>
+      </div>
+
+      <div class="bank-list" id="bankList">
+        <!-- Dynamic list of questions -->
+      </div>
+    </div>
+  </main>
+
+  <!-- Past Attempts Modal -->
+  <div class="modal-overlay" id="historyModal">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3 style="font-size: 1.2rem; font-weight: 800;">📊 Past Quiz Attempts</h3>
+        <button class="btn-icon" id="closeHistoryBtn" style="border: none;">✕</button>
+      </div>
+      <div id="historyList">
+        <!-- Rendered dynamically -->
+      </div>
+      <div style="margin-top: 1.5rem; text-align: right;">
+        <button class="btn btn-secondary btn-sm" id="clearHistoryBtn">Clear History</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p><strong>GeoQuiz Master</strong> • Built for Remote Sensing, GIS & GPS Academic Excellence</p>
+      <p style="margin-top: 0.25rem; font-size: 0.8rem;">
+        Course Outcomes: CO1 (RS & Cartography) • CO2 (DIP & Terrain) • CO3 (GIS Data Models) • CO4 (GPS & Spatial Apps)
+      </p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="./questions.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
